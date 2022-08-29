@@ -1,0 +1,15 @@
+{
+  "attributes": [
+    {
+      "trait_type": "BadgeType",
+      "value": "battle"
+    },
+    {
+      "trait_type": "meaning",
+      "value": "winner"
+    }
+  ],
+  "description": "you are winner.",
+  "image": "ipfs://QmRCiVCBtqqQ9wDJGcqEVViSyuwYY84kaK8gWGy46tNQ4s",
+  "name": "BattleBadge"
+}

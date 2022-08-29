@@ -1,0 +1,15 @@
+{
+  "attributes": [
+    {
+      "trait_type": "BadgeType",
+      "value": "noodle"
+    },
+    {
+      "trait_type": "meaning",
+      "value": "skill increase"
+    }
+  ],
+  "description": "your skills have improved.",
+  "image": "ipfs://QmPTub9Mart7oaDu9Ynqaqv6ScHyUUbD7j8sXZ3fr8LqUJ",
+  "name": "NoodleBadge"
+}

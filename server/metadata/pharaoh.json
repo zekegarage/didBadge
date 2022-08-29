@@ -1,0 +1,15 @@
+{
+  "attributes": [
+    {
+      "trait_type": "BadgeType",
+      "value": "pharaoh"
+    },
+    {
+      "trait_type": "meaning",
+      "value": "protector"
+    }
+  ],
+  "description": "you are community protector.",
+  "image": "ipfs://QmYAy6FTFxsdA3qgNVeicDGjNyDaSode4Y7A6joBPDsnby",
+  "name": "PharaohBadge"
+}
